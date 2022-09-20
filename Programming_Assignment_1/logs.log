@@ -1,0 +1,109 @@
+[2022-09-20 23:00:14,677 : INFO : main] : Main Method Execution started 
+[2022-09-20 23:00:14,677 : INFO : main] : acquiring a value 
+[2022-09-20 23:00:17,274 : INFO : main] : acquiring b value 
+[2022-09-20 23:00:17,594 : INFO : main] : intiating object 
+[2022-09-20 23:00:17,594 : INFO : assignment1] : intialised objects 
+[2022-09-20 23:00:17,594 : INFO : main] : calling hellopython function 
+[2022-09-20 23:00:17,594 : INFO : assignment1] : entering hellopython function 
+[2022-09-20 23:00:17,594 : INFO : assignment1] : exiting hellopython function 
+[2022-09-20 23:00:17,594 : INFO : main] : calling addition function 
+[2022-09-20 23:00:17,594 : INFO : assignment1] : entering addition function with operands 
+[2022-09-20 23:00:17,594 : INFO : main] : the result of addtion is : 10 
+[2022-09-20 23:00:17,594 : INFO : main] : calling divistion function 
+[2022-09-20 23:00:17,594 : INFO : assignment1] : entering division function 
+[2022-09-20 23:00:17,594 : INFO : main] : the result of division is : 1.0 
+[2022-09-20 23:00:45,026 : INFO : main] : Main Method Execution started 
+[2022-09-20 23:00:45,026 : INFO : main] : acquiring a value 
+[2022-09-20 23:00:47,183 : INFO : main] : acquiring b value 
+[2022-09-20 23:00:48,291 : INFO : main] : intiating object 
+[2022-09-20 23:00:48,291 : INFO : assignment1] : intialised objects 
+[2022-09-20 23:00:48,291 : INFO : main] : calling hellopython function 
+[2022-09-20 23:00:48,291 : INFO : assignment1] : entering hellopython function 
+[2022-09-20 23:00:48,291 : INFO : assignment1] : exiting hellopython function 
+[2022-09-20 23:00:48,291 : INFO : main] : calling addition function 
+[2022-09-20 23:00:48,291 : INFO : assignment1] : entering addition function with operands 
+[2022-09-20 23:00:48,291 : INFO : main] : the result of addtion is : 5 
+[2022-09-20 23:00:48,291 : INFO : main] : calling divistion function 
+[2022-09-20 23:00:48,291 : INFO : assignment1] : entering division function 
+[2022-09-20 23:00:48,292 : INFO : assignment1] : entered exception 
+[2022-09-20 23:00:48,292 : ERROR : assignment1] : division by zero 
+Traceback (most recent call last):
+  File "/Users/gaudabalakrishna/PycharmProjects/InueronAssignmentsCoding/assignment1.py", line 29, in divistion
+    return a/b
+ZeroDivisionError: division by zero
+[2022-09-20 23:00:48,293 : INFO : main] : the result of division is : None 
+[2022-09-20 23:32:33,791 : INFO : main] : Main Method Execution started 
+[2022-09-20 23:32:33,791 : INFO : main] : acquiring a value 
+[2022-09-20 23:32:37,717 : INFO : main] : acquiring b value 
+[2022-09-20 23:32:38,421 : INFO : main] : intiating object 
+[2022-09-20 23:32:38,422 : INFO : assignment1] : intialised objects 
+[2022-09-20 23:32:38,422 : INFO : main] : calling hellopython function 
+[2022-09-20 23:32:38,422 : INFO : assignment1] : entering hellopython function 
+[2022-09-20 23:32:38,422 : INFO : assignment1] : exiting hellopython function 
+[2022-09-20 23:32:38,422 : INFO : main] : calling addition function 
+[2022-09-20 23:32:38,422 : INFO : assignment1] : entering addition function with operands 
+[2022-09-20 23:32:38,422 : INFO : main] : the result of addtion is : 10 
+[2022-09-20 23:32:38,422 : INFO : main] : calling divistion function 
+[2022-09-20 23:32:38,422 : INFO : assignment1] : entering division function 
+[2022-09-20 23:32:38,422 : INFO : main] : the result of division is : 1.0 
+[2022-09-20 23:58:20,903 : INFO : main] : Main Method Execution started 
+[2022-09-20 23:58:20,904 : INFO : main] : acquiring a value 
+[2022-09-20 23:58:23,488 : INFO : main] : acquiring b value 
+[2022-09-20 23:58:24,295 : INFO : main] : intiating object 
+[2022-09-20 23:58:24,296 : INFO : assignment1] : intialised objects 
+[2022-09-20 23:58:24,296 : INFO : main] : calling hellopython function 
+[2022-09-20 23:58:24,296 : INFO : assignment1] : entering hellopython function 
+[2022-09-20 23:58:24,296 : INFO : assignment1] : exiting hellopython function 
+[2022-09-20 23:58:24,296 : INFO : main] : calling addition function 
+[2022-09-20 23:58:24,296 : INFO : main] : the result of addtion is : 10 
+[2022-09-20 23:58:24,296 : INFO : main] : calling divistion function 
+[2022-09-20 23:58:24,296 : INFO : assignment1] : entering division function 
+[2022-09-20 23:58:24,297 : INFO : main] : the result of division is : 1.0 
+[2022-09-20 23:58:24,297 : INFO : main] : calling area of traingle function 
+[2022-09-20 23:58:24,297 : INFO : assignment1] : entering area of triangle where a is hieght and b is base 
+[2022-09-20 23:58:24,297 : INFO : main] : area of traingle is :12.5 
+[2022-09-20 23:58:24,297 : INFO : main] : calling swap of two variables function 
+[2022-09-20 23:58:24,297 : INFO : assignment1] : entering swapping function 
+[2022-09-20 23:58:24,298 : INFO : main] : the result of swap is : (5, 5) 
+[2022-09-20 23:58:24,298 : INFO : main] : calling generation of random number function 
+[2022-09-20 23:58:24,298 : INFO : assignment1] : Entering random number generation function 
+[2022-09-20 23:58:24,298 : INFO : main] : the random number generated is 0.7733919645596529 
+[2022-09-20 23:58:51,474 : INFO : main] : Main Method Execution started 
+[2022-09-20 23:58:51,474 : INFO : main] : acquiring a value 
+[2022-09-21 00:02:06,901 : INFO : main] : Main Method Execution started 
+[2022-09-21 00:02:06,901 : INFO : main] : acquiring a value 
+[2022-09-21 00:02:09,915 : ERROR : main] : invalid literal for int() with base 10: 'dfds' 
+Traceback (most recent call last):
+  File "/Users/gaudabalakrishna/PycharmProjects/Programming_Assignment_1/main.py", line 13, in <module>
+    a = int(input(" enter a Value "))
+ValueError: invalid literal for int() with base 10: 'dfds'
+[2022-09-21 00:02:09,917 : INFO : main] : Main method exited 
+[2022-09-21 00:02:27,568 : INFO : main] : Main Method Execution started 
+[2022-09-21 00:02:27,569 : INFO : main] : acquiring a value 
+[2022-09-21 00:02:32,563 : INFO : main] : acquiring b value 
+[2022-09-21 00:02:34,701 : INFO : main] : intiating object 
+[2022-09-21 00:02:34,701 : INFO : assignment1] : intialised objects 
+[2022-09-21 00:02:34,701 : INFO : main] : calling hellopython function 
+[2022-09-21 00:02:34,701 : INFO : assignment1] : entering hellopython function 
+[2022-09-21 00:02:34,701 : INFO : assignment1] : exiting hellopython function 
+[2022-09-21 00:02:34,701 : INFO : main] : calling addition function 
+[2022-09-21 00:02:34,701 : INFO : main] : the result of addtion is : 5 
+[2022-09-21 00:02:34,701 : INFO : main] : calling divistion function 
+[2022-09-21 00:02:34,701 : INFO : assignment1] : entering division function 
+[2022-09-21 00:02:34,701 : INFO : assignment1] : entered exception 
+[2022-09-21 00:02:34,702 : ERROR : assignment1] : division by zero 
+Traceback (most recent call last):
+  File "/Users/gaudabalakrishna/PycharmProjects/Programming_Assignment_1/assignment1.py", line 38, in divistion
+    return a/b
+ZeroDivisionError: division by zero
+[2022-09-21 00:02:34,703 : INFO : main] : the result of division is : None 
+[2022-09-21 00:02:34,703 : INFO : main] : calling area of traingle function 
+[2022-09-21 00:02:34,703 : INFO : assignment1] : entering area of triangle where a is hieght and b is base 
+[2022-09-21 00:02:34,704 : INFO : main] : area of traingle is :0.0 
+[2022-09-21 00:02:34,704 : INFO : main] : calling swap of two variables function 
+[2022-09-21 00:02:34,704 : INFO : assignment1] : entering swapping function 
+[2022-09-21 00:02:34,704 : INFO : main] : the result of swap is : (0, 5) 
+[2022-09-21 00:02:34,704 : INFO : main] : calling generation of random number function 
+[2022-09-21 00:02:34,704 : INFO : assignment1] : Entering random number generation function 
+[2022-09-21 00:02:34,704 : INFO : main] : the random number generated is 0.7460948000935249 
+[2022-09-21 00:02:34,704 : INFO : main] : Main method exited 
