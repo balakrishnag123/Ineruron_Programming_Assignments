@@ -1,0 +1,137 @@
+[2022-09-22 00:06:31,549 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:06:31,549 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:12:08,559 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:12:08,559 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:12:08,559 : ERROR : Assignment2] : please enter the values which can calculates km to Miles
+NoneType: None
+[2022-09-22 00:12:08,560 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:12:08,560 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:12:08,560 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:12:08,560 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:12:08,560 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:12:13,037 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:12:13,037 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:12:13,037 : ERROR : Assignment2] : please enter the values which can calculates km to Miles
+NoneType: None
+[2022-09-22 00:12:13,037 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:12:13,037 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:12:13,038 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:12:13,038 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:12:13,038 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:12:17,322 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:12:17,322 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:12:17,322 : ERROR : Assignment2] : please enter the values which can calculates km to Miles
+NoneType: None
+[2022-09-22 00:12:17,322 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:12:17,322 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:12:17,322 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:12:17,322 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:12:17,322 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:12:59,860 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:12:59,860 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:12:59,861 : ERROR : Assignment2] : please enter the values which can calculates km to Miles
+NoneType: None
+[2022-09-22 00:12:59,861 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:12:59,861 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:12:59,861 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:12:59,861 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:12:59,862 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:13:05,354 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:13:05,354 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:13:05,354 : ERROR : Assignment2] : please enter the values which can calculates km to Miles
+NoneType: None
+[2022-09-22 00:13:05,354 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:13:05,354 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:13:05,355 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:13:05,355 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:13:05,355 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:13:09,499 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:13:09,500 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:13:09,500 : ERROR : Assignment2] : please enter the values which can calculates km to Miles
+NoneType: None
+[2022-09-22 00:13:09,500 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:13:09,500 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:13:09,501 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:13:09,501 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:13:09,501 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:13:26,463 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:13:32,303 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:13:49,775 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:13:49,775 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:13:49,775 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:13:49,775 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:13:49,775 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:13:49,775 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:13:49,775 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:16:33,029 : INFO : main] : entering into main function
+[2022-09-22 00:16:33,030 : INFO : main] : creating object for assingment_2
+[2022-09-22 00:34:26,266 : INFO : main] : entering into main function
+[2022-09-22 00:34:26,267 : INFO : main] : creating object for assingment_2
+[2022-09-22 00:34:26,267 : INFO : main] : calling kmtomiles
+[2022-09-22 00:34:26,267 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:34:26,267 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:34:26,267 : INFO : main] : miles values is3.106855
+[2022-09-22 00:34:26,267 : INFO : main] : calling celcius to farenheit function
+[2022-09-22 00:34:26,267 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:34:26,267 : INFO : main] : farenheit values is93.2
+[2022-09-22 00:34:26,267 : INFO : main] : entering into display calender function
+[2022-09-22 00:34:26,267 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:34:26,267 : INFO : main] : calling quadraticEquation function
+[2022-09-22 00:34:26,267 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:34:26,267 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:34:26,267 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:34:26,267 : INFO : main] : quadratic solution are ((-0.625-1.0532687216470449j), (-0.625+1.0532687216470449j))
+[2022-09-22 00:34:26,267 : INFO : main] : (7, 4)
+[2022-09-22 00:35:38,363 : INFO : main] : entering into main function
+[2022-09-22 00:35:38,363 : INFO : main] : creating object for assingment_2
+[2022-09-22 00:35:38,363 : INFO : main] : calling kmtomiles
+[2022-09-22 00:35:38,363 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:35:38,363 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:35:38,363 : INFO : main] : miles values is3.106855
+[2022-09-22 00:35:38,363 : INFO : main] : calling celcius to farenheit function
+[2022-09-22 00:35:38,363 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:35:38,363 : INFO : main] : farenheit values is93.2
+[2022-09-22 00:35:38,363 : INFO : main] : entering into display calender function
+[2022-09-22 00:35:38,363 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:35:38,364 : INFO : main] : calling quadraticEquation function
+[2022-09-22 00:35:38,364 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:35:38,364 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:35:38,364 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:35:38,364 : INFO : main] : quadratic solution are ((-0.625-1.0532687216470449j), (-0.625+1.0532687216470449j))
+[2022-09-22 00:35:38,364 : INFO : main] : (7, 4)
+[2022-09-22 00:36:02,884 : INFO : main] : entering into main function
+[2022-09-22 00:36:02,884 : INFO : main] : creating object for assingment_2
+[2022-09-22 00:36:02,884 : INFO : main] : calling kmtomiles
+[2022-09-22 00:36:02,884 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:36:02,884 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:36:02,884 : INFO : main] : miles values is3.106855
+[2022-09-22 00:36:02,884 : INFO : main] : calling celcius to farenheit function
+[2022-09-22 00:36:02,885 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:36:02,885 : INFO : main] : farenheit values is93.2
+[2022-09-22 00:36:02,885 : INFO : main] : entering into display calender function
+[2022-09-22 00:36:02,885 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:36:02,885 : INFO : main] : calling quadraticEquation function
+[2022-09-22 00:36:02,885 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:36:02,885 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:36:02,885 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:36:02,885 : INFO : main] : quadratic solution are ((-0.625-1.0532687216470449j), (-0.625+1.0532687216470449j))
+[2022-09-22 00:36:02,885 : INFO : main] : (7, 4)
+[2022-09-22 00:36:02,885 : INFO : main] : =============================================
+[2022-09-22 00:36:08,636 : INFO : main] : entering into main function
+[2022-09-22 00:36:08,637 : INFO : main] : creating object for assingment_2
+[2022-09-22 00:36:08,638 : INFO : main] : calling kmtomiles
+[2022-09-22 00:36:08,640 : INFO : Assignment2] : Entering into KmtoMiles module
+[2022-09-22 00:36:08,641 : INFO : Assignment2] : Assigned local variable with miles converter value
+[2022-09-22 00:36:08,642 : INFO : main] : miles values is3.106855
+[2022-09-22 00:36:08,642 : INFO : main] : calling celcius to farenheit function
+[2022-09-22 00:36:08,642 : INFO : Assignment2] : entering into celciustofahrenheit function
+[2022-09-22 00:36:08,642 : INFO : main] : farenheit values is93.2
+[2022-09-22 00:36:08,642 : INFO : main] : entering into display calender function
+[2022-09-22 00:36:08,642 : INFO : Assignment2] : entering into display calender function
+[2022-09-22 00:36:08,642 : INFO : main] : calling quadraticEquation function
+[2022-09-22 00:36:08,642 : INFO : Assignment2] : enterting into quadratic equation function
+[2022-09-22 00:36:08,642 : INFO : Assignment2] : calculating d values
+[2022-09-22 00:36:08,642 : INFO : Assignment2] : finding values of x
+[2022-09-22 00:36:08,642 : INFO : main] : quadratic solution are ((-0.625-1.0532687216470449j), (-0.625+1.0532687216470449j))
+[2022-09-22 00:36:08,643 : INFO : main] : (7, 4)
+[2022-09-22 00:36:08,643 : INFO : main] : =============================================
