@@ -1,0 +1,40 @@
+[2022-09-27 00:22:59,867 : INFO : main] : entered Main functions
+[2022-09-27 00:22:59,867 : INFO : main] : creating object for number operation function
+[2022-09-27 00:22:59,867 : INFO : Assignment_4] : Initializing variable values
+[2022-09-27 00:22:59,867 : INFO : main] : calling factorialofNumber function
+[2022-09-27 00:22:59,867 : INFO : Assignment_4] : entered into factorialofNumber function
+[2022-09-27 00:22:59,867 : INFO : Assignment_4] : exiting factorialofNumber
+[2022-09-27 00:22:59,867 : INFO : main] : the result is 
+[2022-09-27 00:22:59,867 : INFO : main] : 362880
+[2022-09-27 00:22:59,867 : INFO : main] : calling multiplication_table function
+[2022-09-27 00:22:59,867 : INFO : Assignment_4] : entered into multiplication_table function
+[2022-09-27 00:22:59,867 : INFO : Assignment_4] : exiting multiplication_table
+[2022-09-27 00:22:59,867 : INFO : main] : the result is 
+[2022-09-27 00:22:59,867 : INFO : main] : 9 * 1 = 9
+9 * 2 = 18
+9 * 3 = 27
+9 * 4 = 36
+9 * 5 = 45
+9 * 6 = 54
+9 * 7 = 63
+9 * 8 = 72
+9 * 9 = 81
+9 * 10 = 90
+
+[2022-09-27 00:22:59,867 : INFO : main] : calling fabanicciSeries function
+[2022-09-27 00:22:59,867 : INFO : Assignment_4] : entered into fabanicciSeries function
+[2022-09-27 00:22:59,867 : INFO : Assignment_4] : exiting fabanicciSeries
+[2022-09-27 00:22:59,867 : INFO : main] : the result is 
+[2022-09-27 00:22:59,867 : INFO : main] : [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+[2022-09-27 00:22:59,867 : INFO : main] : calling Armstrongornot function
+[2022-09-27 00:22:59,867 : INFO : main] : the result is 
+[2022-09-27 00:22:59,867 : INFO : main] : not armstrong
+[2022-09-27 00:22:59,867 : INFO : main] : calling rangeArmstrong function
+[2022-09-27 00:22:59,871 : INFO : main] : the result is 
+[2022-09-27 00:22:59,871 : INFO : main] : [153, 370, 371, 407, 1634]
+[2022-09-27 00:22:59,871 : INFO : main] : calling sumnofNaturalNumbers function
+[2022-09-27 00:22:59,871 : INFO : Assignment_4] : entered into sumnofNaturalNumbers function
+[2022-09-27 00:22:59,871 : INFO : main] : the result is 
+[2022-09-27 00:22:59,871 : INFO : main] : 36
+[2022-09-27 00:22:59,871 : INFO : main] : Exiting Main function
+[2022-09-27 00:22:59,871 : INFO : main] : ---------------------------------------------------------------------------------
